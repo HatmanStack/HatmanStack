@@ -1,4 +1,4 @@
-### Hi there 👋
+![gif from these guys](https://github.com/HatmanStack/HatmanStack/blob/a1c0bfcdd7247f962b1696f01297bf839db0944e/google_deep_mind.gif?raw=true)
 
 <!--
 **HatmanStack/HatmanStack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
