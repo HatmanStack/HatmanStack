@@ -1,4 +1,4 @@
 
 <p align="center">
-  <img src="hand.gif" alt="hand"/>
+  <img src="google_deep_mind.avif" alt="hand"/>
 </p>
