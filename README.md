@@ -1,4 +1,4 @@
 
 <p align="center">
-  <img src="https://github.com/HatmanStack/HatmanStack/blob/a1c0bfcdd7247f962b1696f01297bf839db0944e/hand.gif" alt="hand"/>
+  <img src="hand.gif" alt="hand"/>
 </p>
